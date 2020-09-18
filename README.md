@@ -23,6 +23,6 @@ This was built to bootstrap fullscale production-ready MERN stack applications a
 
 ## To-Do
 
-- [ ] Redux Integration
-- [ ] User Profiles
-- [ ] Admin Dashboard
+&#9744; Redux Integration
+&#9744; User Profiles
+&#9744; Admin Dashboard
